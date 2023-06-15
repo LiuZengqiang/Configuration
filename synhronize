@@ -1,0 +1,4 @@
+#/usr/bin/bash
+echo "Begin copy .vimrc"
+cp ~/.vimrc ./vimrc
+echo "End copy .vimrc"
