@@ -1,0 +1,13 @@
+set nocompatible
+syntax on
+set number
+set relativenumber
+set backspace=indent,eol,start
+set cursorline
+set mouse=a
+set ttymouse=sgr
+set completeopt=noselect
+set tabstop=4
+set shiftwidth=4
+colorscheme pablo
+set hlsearch

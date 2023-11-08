@@ -1,0 +1,9 @@
+[user]
+	name = liuzengqiang
+	email = 12021032@zju.edu.cn
+[init]
+	defaultBranch = master
+[alias]
+	ll = log --graph --pretty=format:'%C(yellow)%h%Creset -%C(cyan)%d%Creset %s %Cgreen(%an, %cr)' --abbrev-commit
+[core]
+	excludesFile = ~/.gitignore_global

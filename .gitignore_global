@@ -1,0 +1,12 @@
+# build directory
+cmake-build-debug/
+cmake-build-release/
+build/
+
+# IDE directory
+.idea/
+.vscode/
+.DS_Store
+
+# temporary file
+*.swp
