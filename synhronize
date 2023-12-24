@@ -1,4 +1,7 @@
 #/usr/bin/bash
+cp ~/.bashrc ./.bashrc
+echo "~/.bashrc => .bashrc"
+
 cp ~/.vimrc ./.vimrc
 echo "~/.vimrc => .vimrc"
 
@@ -7,3 +10,4 @@ echo "~/.gitconfi => .gitconfig"
 
 cp ~/.gitignore_global ./.gitignore_global
 echo "~/.gitignore_global => .gitconfig_global"
+
